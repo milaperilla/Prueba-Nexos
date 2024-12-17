@@ -5,7 +5,7 @@ Conversión de Moneda.
 3. Ejecutar:
 `dotnet run Program.cs`
 
-####Adaptabilidad y Flexibilidad
+#### Adaptabilidad y Flexibilidad
 Tenemos dos maneras de abordar las actualizaciones en tasas de cambio:
 
 1. Solicitar al usuario que ingrese el valor actual tando del Dólar como del Euro.
