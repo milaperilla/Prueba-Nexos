@@ -1,0 +1,14 @@
+C:\Users\candr\Documents\CAMILA ARCHIVOS\prueba_nexos\bin\Debug\net8.0\prueba_nexos.exe
+C:\Users\candr\Documents\CAMILA ARCHIVOS\prueba_nexos\bin\Debug\net8.0\prueba_nexos.deps.json
+C:\Users\candr\Documents\CAMILA ARCHIVOS\prueba_nexos\bin\Debug\net8.0\prueba_nexos.runtimeconfig.json
+C:\Users\candr\Documents\CAMILA ARCHIVOS\prueba_nexos\bin\Debug\net8.0\prueba_nexos.dll
+C:\Users\candr\Documents\CAMILA ARCHIVOS\prueba_nexos\bin\Debug\net8.0\prueba_nexos.pdb
+C:\Users\candr\Documents\CAMILA ARCHIVOS\prueba_nexos\obj\Debug\net8.0\prueba_nexos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\candr\Documents\CAMILA ARCHIVOS\prueba_nexos\obj\Debug\net8.0\prueba_nexos.AssemblyInfoInputs.cache
+C:\Users\candr\Documents\CAMILA ARCHIVOS\prueba_nexos\obj\Debug\net8.0\prueba_nexos.AssemblyInfo.cs
+C:\Users\candr\Documents\CAMILA ARCHIVOS\prueba_nexos\obj\Debug\net8.0\prueba_nexos.csproj.CoreCompileInputs.cache
+C:\Users\candr\Documents\CAMILA ARCHIVOS\prueba_nexos\obj\Debug\net8.0\prueba_nexos.dll
+C:\Users\candr\Documents\CAMILA ARCHIVOS\prueba_nexos\obj\Debug\net8.0\refint\prueba_nexos.dll
+C:\Users\candr\Documents\CAMILA ARCHIVOS\prueba_nexos\obj\Debug\net8.0\prueba_nexos.pdb
+C:\Users\candr\Documents\CAMILA ARCHIVOS\prueba_nexos\obj\Debug\net8.0\prueba_nexos.genruntimeconfig.cache
+C:\Users\candr\Documents\CAMILA ARCHIVOS\prueba_nexos\obj\Debug\net8.0\ref\prueba_nexos.dll
